@@ -1,7 +1,7 @@
 import { count, gte, lte, and, eq, sql } from 'drizzle-orm'
 import { db } from '../db'
 import { goalCompletions, goals } from '../db/schema'
-import { firtDayOfWeek, lastDayOfWeek } from './get-week-pending-goals'
+import { firtDayOfWeek, lastDayOfWeek } from '../common/days'
 
 interface CreateGoalCompletionRequest {
   goalId: string
