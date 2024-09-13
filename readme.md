@@ -86,3 +86,10 @@ npx drizzle-kit studio
 > ```shel
 >  npm run dev
 > ```
+
+![Tela inicio](https://github.com/DrFaelSan/nlw-pocket/blob/98144eb3f546691cb584d05d3fe3a40b51f7fed9/images/inicio.png)
+![Formulário meta](https://github.com/DrFaelSan/nlw-pocket/blob/98144eb3f546691cb584d05d3fe3a40b51f7fed9/images/cadastrar-meta.png)
+![Listagem com meta adicionada e concluida](https://github.com/DrFaelSan/nlw-pocket/blob/98144eb3f546691cb584d05d3fe3a40b51f7fed9/images/adicao-meta-e-marcar-completada.png)
+
+
+
